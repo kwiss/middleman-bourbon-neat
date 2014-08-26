@@ -2,7 +2,7 @@
 # the following line to use "https"
 source 'http://rubygems.org'
 
-gem "middleman", "~>3.2.2"
+gem "middleman", "~>3.3.5"
 gem 'compass', '~> 1.0.0.alpha.19'
 
 # Live-reloading plugin

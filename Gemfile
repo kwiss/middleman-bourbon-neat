@@ -3,7 +3,6 @@
 source 'http://rubygems.org'
 
 gem "middleman", "~>3.2.2"
-gem "sass", "~>3.3.14"
 gem 'compass', '~> 1.0.0.alpha.19'
 
 # Live-reloading plugin
